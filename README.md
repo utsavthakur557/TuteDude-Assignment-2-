@@ -6,7 +6,7 @@ A simple Python program that:
 - Checks whether the number is **even** or **odd**
 - Displays the result to the user
 
-🔗 **Script**: [`task1.py`](task1.py)
+🔗 **Script**: [`5.task1.py`](5.task1.py)
 
 ### ✅ Task 2: Sum of Integers from 1 to 50
 A basic program that:
@@ -14,4 +14,4 @@ A basic program that:
 - Calculates the sum of all integers in that range
 - Prints the final result
 
-🔗 **Script**: [`task2.py`](task2.py)
+🔗 **Script**: [`6.task2.py`](6.task2.py)
